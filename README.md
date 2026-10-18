@@ -14,8 +14,8 @@
 <!-- ─── CONTACT STRIP ─── -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Umer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umer-154605173/)
-[![Email](https://img.shields.io/badge/Email-muhammadumer8132-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadumer8132@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Umer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umar-154605173)
+[![Email](https://img.shields.io/badge/Email-muhammadumer8132-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadumar5701@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=muhammad-umer8132&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/muhammad-umer8132)
 [![Followers](https://img.shields.io/github/followers/muhammad-umer8132?style=flat-square&color=22c55e&label=Followers&logo=github)](https://github.com/muhammad-umer8132?tab=followers)
 [![Status](https://img.shields.io/badge/Available-Open%20to%20Collaborate-22c55e?style=flat-square&logo=statuspage&logoColor=white)](#-lets-connect)
