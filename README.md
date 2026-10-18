@@ -2,7 +2,7 @@
      │  HEADER — gradient auto-rotates color by time of day           │
      └──────────────────────────────────────────────────────────────────┘ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:0ea5e9&height=260&section=header&text=Muhammad%20Umer&fontSize=74&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%2B%20AI%20Engineer%20%E2%80%94%20Building%20intelligent%20systems%20that%20ship%20to%20production%20and%20solve%20real%20problems&descAlignY=63&descSize=13&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:0ea5e9&height=260&section=header&text=Muhammad%20Umar&fontSize=74&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%2B%20AI%20Engineer%20%E2%80%94%20Building%20intelligent%20systems%20that%20ship%20to%20production%20and%20solve%20real%20problems&descAlignY=63&descSize=13&descColor=ffffff" width="100%"/>
 
 <!-- ─── TYPING SVG ─── -->
 <div align="center">
